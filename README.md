@@ -3,7 +3,7 @@
 
 A really awful excuse for an operating system that runs on the Microbit.
 
-#It can:
+##It can:
 Create and delete files, which require exporting to your actual computer
 Tell you its version
 and
