@@ -1,24 +1,13 @@
 
 > Open this page at [https://atf1511.github.io/micros/](https://atf1511.github.io/micros/)
 
-## Use as Extension
+A really awful excuse for an operating system that runs on the Microbit.
 
-This repository can be added as an **extension** in MakeCode.
+#It can:
+Create and delete files, which require exporting to your actual computer
+Tell you its version
+and
+absolutely nothing else!
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/atf1511/micros** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/atf1511/micros** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+Feel free to add stuff if you want, idc
+Please don't use this. Just don't.
